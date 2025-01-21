@@ -1,6 +1,6 @@
 # Spaceship Titanic Passenger Classification Project
 
-Welcome to this comprehensive analysis of the Spaceship Titanic Passenger Dataset! The objective in this project is to predict whether a passenger was transported to another dimension, based on an extensive range of personal and transactional information.
+Welcome to this comprehensive analysis of the Spaceship Titanic Passenger Dataset! The objective in this project is to predict whether a passenger was transported to another dimension, based on an extensive range of personal and transactional information. This project was completed with the collaboration of my classmates Fulin Zhang, Nicholas Sebald, Ruicong Wang, and Qinyi Miao. 
 
 ## Overview of the Dataset:
 
