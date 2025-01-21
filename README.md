@@ -1,10 +1,10 @@
 # Spaceship Titanic Passenger Classification Project
 
-Welcome to this comprehensive analysis of the Spaceship Titanic Passenger Dataset! Our objective in this project is to predict whether a passenger was transported to another dimension, based on an extensive range of personal and transactional information.
+Welcome to this comprehensive analysis of the Spaceship Titanic Passenger Dataset! The objective in this project is to predict whether a passenger was transported to another dimension, based on an extensive range of personal and transactional information.
 
 ## Overview of the Dataset:
 
-We are working with the [Spaceship Titanic Passenger Data](https://www.kaggle.com/competitions/spaceship-titanic/data), which consists of detailed records for approximately 8,700 passengers.
+I am working with the [Spaceship Titanic Passenger Data](https://www.kaggle.com/competitions/spaceship-titanic/data), which consists of detailed records for approximately 8,700 passengers.
 
 ### Dataset: `train.csv`
 
