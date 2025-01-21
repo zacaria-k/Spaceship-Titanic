@@ -4,7 +4,7 @@ Welcome to this comprehensive analysis of the Spaceship Titanic Passenger Datase
 
 ## Overview of the Dataset:
 
-I am working with the [Spaceship Titanic Passenger Data](https://www.kaggle.com/competitions/spaceship-titanic/data), which consists of detailed records for approximately 8,700 passengers.
+The [Spaceship Titanic Passenger Data](https://www.kaggle.com/competitions/spaceship-titanic/data) consists of detailed records for approximately 8,700 passengers.
 
 ### Dataset: `train.csv`
 
